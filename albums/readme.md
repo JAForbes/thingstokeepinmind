@@ -19,3 +19,7 @@ Stone Temple Pilots - Stone Temple Pilots
 
 >Summer
 
+After the Gold Rush - Neil Young
+--------------------------------
+
+![](http://upload.wikimedia.org/wikipedia/en/2/2d/After_the_Gold_Rush.jpg)
