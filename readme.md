@@ -3,3 +3,4 @@
 - [Utopian for Beginners (Ithkuil: A Philosophical Design for a Hypothetical Language.)](http://www.newyorker.com/magazine/2012/12/24/utopian-for-beginners?currentPage=all)
 - [Music Object, Substance, Organism (David Kanaga)](http://vimeo.com/90271157)
 - [Video Games and the Human Condition (Jon Blow)](https://www.youtube.com/watch?v=SqFu5O-oPmU)
+- [Form and its Usurpers - Brendan Vance](http://blog.brendanvance.com/2014/07/16/usurpers/)
