@@ -4,3 +4,4 @@
 - [Music Object, Substance, Organism (David Kanaga)](http://vimeo.com/90271157)
 - [Video Games and the Human Condition (Jon Blow)](https://www.youtube.com/watch?v=SqFu5O-oPmU)
 - [Form and its Usurpers - Brendan Vance](http://blog.brendanvance.com/2014/07/16/usurpers/)
+- [Design, Form and Chaos - Paul Rand](http://blog.brendanvance.com/2014/07/16/usurpers/)
