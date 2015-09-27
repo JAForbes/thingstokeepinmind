@@ -1,3 +1,6 @@
+Things to Keep in Mind
+=======================
+
 - [Why Everything Sucks (The Deification of the Youth) - Craig Ferguson](https://www.youtube.com/watch?v=UKUZ42T9diU)
 - [The Art of Screenshake (Game Feel) - Jan Willem](https://www.youtube.com/watch?v=AJdEqssNZ-U)
 - [Utopian for Beginners (Ithkuil: A Philosophical Design for a Hypothetical Language.)](http://www.newyorker.com/magazine/2012/12/24/utopian-for-beginners?currentPage=all)
