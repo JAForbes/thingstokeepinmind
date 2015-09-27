@@ -8,4 +8,5 @@
 - [The Possibilian - Burkhard Bilger](http://www.newyorker.com/magazine/2011/04/25/the-possibilian)
 - [Videogames and the Spirit of Capitalism - Paolo Pedercini](http://vimeo.com/86738382)
 - [Therefore, But and Meanwhile back at the Ranch](https://www.youtube.com/watch?v=1GXv2C7vwX0)
-- [Vulnerability](https://the-pastry-box-project.net/katie-zhu/2015-september-14)
+- [Vulnerability - Katie Zhu](https://the-pastry-box-project.net/katie-zhu/2015-september-14)
+- [How to Safely Store a Password - Coda Hale](http://codahale.com/how-to-safely-store-a-password/)
