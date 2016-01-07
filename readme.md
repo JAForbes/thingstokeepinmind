@@ -13,3 +13,4 @@ Things to Keep in Mind
 - [Therefore, But and Meanwhile back at the Ranch](https://www.youtube.com/watch?v=1GXv2C7vwX0)
 - [Vulnerability - Katie Zhu](https://the-pastry-box-project.net/katie-zhu/2015-september-14)
 - [How to Safely Store a Password - Coda Hale](http://codahale.com/how-to-safely-store-a-password/)
+- [Splain it to Me - Alice Maz](http://status451.com/2016/01/06/splain-it-to-me/)
